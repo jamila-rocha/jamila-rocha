@@ -1,7 +1,12 @@
 ### Olá, Rede! 🐦‍🔥
 
-## Me chamo Jamila Rocha, Sou Tech Recruiter Sourcer 👋
+## Me chamo Jamila Rocha e sou Tech Recruiter Sourcer 👋
 
+Está em busca de uma oportunidade para dar um salto em sua carreira? 🚀🚀🚀
+Então me contate via Linkedin ou e-mail e vamos marcar um café para providenciarmos essa nova jornada! ☕
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/jamila-rocha/)
 <!--
 **jamila-rocha/jamila-rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
